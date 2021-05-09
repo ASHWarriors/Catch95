@@ -59,3 +59,8 @@ Resources Used:
 - https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
 - https://github.com/achen353/Face-Mask-Detector
 - https://stackoverflow.com
+
+
+A Demo of the Project:
+--
+https://youtu.be/QxJjTHvaIgc
