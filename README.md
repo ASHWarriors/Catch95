@@ -22,10 +22,10 @@ OR
 - Clone the github repo on to your computer typing ```!git clone https://github.com/ASHWarriors/Catch95.git``` on the Git Bash Terminal.
 - Add python and pip to your system path(if they are not already). Refer to this website if facing problems: https://datatofish.com/add-python-to-windows-path/ 
 - Open the anaconda powershell/ or cmd terminal if using Windows, navigate to the directory containing filename "firstproj" and run ```python manage.py runserver``` to set-up the Django server.
-- Open up Google Chrome and type in ```home:8000\``` or ```your IP:8000```. Catch95 is up and running!
+- Open up Google Chrome and type in ```localhost:8000\``` or ```your IP:8000```. Catch95 is up and running!
 
 ### Model Accuracy :
-Information to be updated soon
+To know the model accuracy, open Catch-95.ipynb using Jupyter Notebook and inspect the accuracy.
 
 DataSets acquired from:
 --
