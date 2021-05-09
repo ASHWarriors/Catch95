@@ -8,6 +8,7 @@ This is a Web-Application which uses a ```CNN-Model``` to detect in real-time if
 - ``` pip install imutils ```
 - ``` pip install keras ```
 -  ``` pip install tensorflow ```
+-   ``` pip install django  ```
 - Make sure that your device has access to a web-cam for the program to run. 
 
 ### After installing the above listed dependencies :
