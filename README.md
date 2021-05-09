@@ -13,6 +13,8 @@ This is a Web-Application which uses a ```CNN-Model``` to detect in real-time if
 
 ### After installing the above listed dependencies :
 - Download the zip-file and extract the contents. 
+- There are a few paths that need to be changed on your system locally:
+  - go to Catch95 -> firstproj -> app1 -> hope.py and on lines 24, 27, 32 change the paths to the paths of your locally saved haarcascade_frontalface_default.xml, model-best and     app1/keras_model.h5 respectively.
 - Add python and pip to your system path(if they are not already). Refer to this website if facing problems: https://datatofish.com/add-python-to-windows-path/ 
 - Open the anaconda powershell/ or cmd terminal if using Windows, navigate to the directory containing the filename "firstproj" and run ```python manage.py runserver``` to set-up the Django server.
 - Open up Google Chrome and type in ```home:8000\``` or ```your IP:8000```. Catch95 is up and running!
@@ -20,6 +22,8 @@ This is a Web-Application which uses a ```CNN-Model``` to detect in real-time if
 OR
 
 - Clone the github repo on to your computer typing ```!git clone https://github.com/ASHWarriors/Catch95.git``` on the Git Bash Terminal.
+- There are a few paths that need to be changed on your system locally:
+  - go to Catch95 -> firstproj -> app1 -> hope.py and on lines 24, 27, 32 change the paths to the paths of your locally saved haarcascade_frontalface_default.xml, model-best and     app1/keras_model.h5 respectively.
 - Add python and pip to your system path(if they are not already). Refer to this website if facing problems: https://datatofish.com/add-python-to-windows-path/ 
 - Open the anaconda powershell/ or cmd terminal if using Windows, navigate to the directory containing filename "firstproj" and run ```python manage.py runserver``` to set-up the Django server.
 - Open up Google Chrome and type in ```localhost:8000\``` or ```your IP:8000```. Catch95 is up and running!
